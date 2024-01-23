@@ -2,9 +2,9 @@
 
 ### Day 1: January 23, 2024
 
-**Today's Progress**: 
+**Today's Progress**: Started & Completed Space and Time Complexity
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Feeling motivated, excited for the journey
 
 
 
