@@ -6,6 +6,15 @@
 
 **Thoughts:** Feeling motivated, excited for the journey
 
+### Day 2: January 24, 2024
+
+**Today's Progress**: Started Recursion
+
+**Thoughts:** Feeling motivated, excited for the journey
+
+### Day 3: January 25, 2024
+
+**Today's Progress**: Recursion Problem Solving
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)

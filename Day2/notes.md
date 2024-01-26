@@ -1,4 +1,4 @@
-# Day 2: January 23, 2024
+# Day 2: January 24, 2024
 
 # Recursion
 
