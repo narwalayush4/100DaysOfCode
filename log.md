@@ -22,6 +22,11 @@
 
 **Thoughts:** Lagging behind a bit, will get back on track
 
+### Day 5: January 27, 2024
+
+**Today's Progress**: Arrays - Searching & Sorting (8.1 - 8.4)
+
+**Thoughts:** Lagging behind a bit, will get back on track
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
