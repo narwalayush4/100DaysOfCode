@@ -16,6 +16,12 @@
 
 **Today's Progress**: Recursion Problem Solving
 
+### Day 4: January 26, 2024
+
+**Today's Progress**: Backtracking Problem Solving & Permutations
+
+**Thoughts:** Lagging behind a bit, will get back on track
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
