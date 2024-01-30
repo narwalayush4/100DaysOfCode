@@ -2,6 +2,6 @@
 .gitignore
 journal.md
 .vscode
-*.dYSM
+*.dYSM/
 */.vscode
 *.out

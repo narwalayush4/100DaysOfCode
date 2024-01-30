@@ -28,6 +28,10 @@
 
 **Thoughts:** Lagging behind a bit, will get back on track
 
+# Day 6: January 28, 2024
+
+**Today's Progress**: Arrays (8.5 - 8.6, 9.1)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
