@@ -32,6 +32,10 @@
 
 **Today's Progress**: Arrays (8.5 - 8.6, 9.1)
 
+# Day 7: January 29, 2024
+
+**Today's Progress**: Character Arrays, Pointers, Stack & Heap
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
